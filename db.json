@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Yutaro",
+      "image": "https://i.ibb.co/sWL83nZ/profile-pic.jpg"
+    }
+  ],
+  "movies": {
+    "watch_again": [
+      {
+        "id": 1,
+        "title": "Beastars",
+        "bg": "https://i.ibb.co/ZNnqphn/beastars.jpg"
+      }
+    ],
+    "trending": [
+      {
+        "id": 2,
+        "title": "BNA",
+        "bg": "https://i.ibb.co/PmsgP9y/bna.png"
+      }
+    ],
+    "continue": [
+      {
+        "id": 3,
+        "title": "Amostradinho",
+        "bg": "https://i.ibb.co/StRYjRL/image-for-portifolio.jpg"
+      }
+    ],
+    "popular": [
+      {
+        "id": 4,
+        "title": "Despacito",
+        "bg": "https://i.ibb.co/KNv7t60/despacito.jpg"
+      }
+    ]
+  }
+}
